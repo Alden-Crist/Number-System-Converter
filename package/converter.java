@@ -1,7 +1,5 @@
-import java.util.*;
+
 import javax.swing.*;
-import java.lang.Math.*;
-import java.awt.event.*;
 import java.awt.Color;
 import java.awt.*;
 import java.awt.event.ActionListener;
