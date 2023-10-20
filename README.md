@@ -1,4 +1,4 @@
-# Simple GUI number system converter
+# Simple GUI number system converter.
 
 
 # output
